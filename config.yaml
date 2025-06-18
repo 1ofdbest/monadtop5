@@ -17,7 +17,7 @@ networks:
       - name: Madness
         address: 0x64Aff7245EbdAAECAf266852139c67E4D8DBa4de
 
-contracts:
+
   - name: Magma
     address: 0x2c9C959516e9AAEdB2C748224a41249202ca8BE7
     abi_path: ./abis/Magma.json
