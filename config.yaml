@@ -4,8 +4,7 @@ unordered_multichain_mode: true
 
 networks:
   - id: 10143
-    rpc_config:
-      url: https://testnet-rpc.monad.xyz  # Replace with actual RPC URL
+    start_block: 22109590
 
 contracts:
   - name: Magma
