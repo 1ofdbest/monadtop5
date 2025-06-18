@@ -1,5 +1,5 @@
 name: montop5
-rollback_on_reorg: true
+rollback_on_reorg: false
 unordered_multichain_mode: true
 
 contracts:
